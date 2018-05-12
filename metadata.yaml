@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4121
     wikipedia: http://en.wikipedia.org/wiki/Norman_Angell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43598#The-Fruits-of-VictoryA-Sequel-to-The-Great-Illusion
 gutenberg_issued: '2013-08-29'
 gutenberg_type: Text
 identifiers:
