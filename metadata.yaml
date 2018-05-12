@@ -1,0 +1,33 @@
+_repo: The-Fruits-of-VictoryA-Sequel-to-The-Great-Illusion_43598
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43598-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Angell, Norman
+    aliases:
+    - Lane, Ralph Norman Angell
+    - Angell, Ralph Norman
+    birthdate: 1874
+    deathdate: 1967
+    gutenberg_agent_id: '4121'
+    url: http://www.gutenberg.org/2009/agents/4121
+    wikipedia: http://en.wikipedia.org/wiki/Norman_Angell
+description: ''
+gutenberg_issued: '2013-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economic history -- 1918-1945'
+- !lcc 'HC'
+- !lcsh 'World War, 1914-1918 -- Influence'
+title: 'The Fruits of Victory
+
+  A Sequel to The Great Illusion'
+url: http://www.gutenberg.org/ebooks/43598
